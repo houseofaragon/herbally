@@ -1,0 +1,7 @@
+Notes:
+
+install ruby/rails
+http://ruby.railstutorial.org/chapters/beginning#sec-1_1_2
+
+heroku installed
+
